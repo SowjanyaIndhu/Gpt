@@ -1,2 +1,3 @@
 # Gpt<br>
-I am Gpt Student
+I am Gpt Student in arakere college
+
